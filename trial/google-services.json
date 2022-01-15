@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "219799156317",
+    "project_id": "task-manager-630d5",
+    "storage_bucket": "task-manager-630d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219799156317:android:ba2b70d89fa9220c23ffb4",
+        "android_client_info": {
+          "package_name": "org.kivy.Task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219799156317-4lrfdcbo1lfmeol21jh4un2eji71gsv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqtSSdWz3eCRewNGv4mKbHdQdtwa2__dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219799156317-4lrfdcbo1lfmeol21jh4un2eji71gsv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8942943599421136~3157074434"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219799156317:android:8be12e60b5c0b95a23ffb4",
+        "android_client_info": {
+          "package_name": "org.test.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219799156317-4lrfdcbo1lfmeol21jh4un2eji71gsv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqtSSdWz3eCRewNGv4mKbHdQdtwa2__dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219799156317-4lrfdcbo1lfmeol21jh4un2eji71gsv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

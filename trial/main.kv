@@ -1,0 +1,19 @@
+<Toy>:
+	txt: txt
+	GridLayout:
+		rows:2
+		cols:1
+		size_hint:(0.5, 0.5)
+		pos_hint: {'center_x':0.5, 'center_y':0.5}
+		TextInput:
+			id:txt
+			text:'Lets start Todays Task'
+			size_hint_y:0.8
+		BoxLayout:
+			size_hint_y:0.2
+			Button:
+				text:'Load Task'
+				on_release:root.save_notes()
+			Button:
+				text:'Start'
+				on_release:root.notifications()
